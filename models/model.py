@@ -146,7 +146,7 @@ class InformerStack(nn.Module):
                 ],
                 [
                     ConvLayer(
-                        d_model
+                        d_model, 1
                     ) for l in range(el - 1)
                 ] if distil else None,
                 norm_layer=torch.nn.LayerNorm(d_model)
