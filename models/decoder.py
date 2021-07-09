@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-@Time    : 2021/4/27 13:47
-@Author  : Origami_Shen_Li
-@FileName: decoder_yolo.py.py
-@Software: PyCharm
-
-@Dedicated to: My love, ZiJin Wei
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
