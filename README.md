@@ -19,6 +19,9 @@ LogSparse Attention[3][4] is added in models/attn.py
 Note that TCCT architectures could also be applied to other time series forecasting Transformer or Transformer-like models. However, necessary transformations are needed.
 # Reference
 [1] Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., & Zhang, W. (2020). Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. arXiv preprint arXiv:2012.07436.
+
 [2] https://github.com/zhouhaoyi/Informer2020
+
 [3] Li, S., Jin, X., Xuan, Y., Zhou, X., Chen, W., Wang, Y. X., & Yan, X. (2019). Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting. arXiv preprint arXiv:1907.00235.
+
 [4] https://github.com/AIStream-Peelout/flow-forecast
