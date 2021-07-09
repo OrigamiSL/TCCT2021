@@ -3,7 +3,7 @@
 """
 @Time    : 2021/4/24 10:05
 @Author  : Origami_Shen_Li
-@FileName: encoder_yolo.py.py
+@FileName: encoder.py
 @Software: PyCharm
 
 @Dedicated to: My love, ZiJin Wei
