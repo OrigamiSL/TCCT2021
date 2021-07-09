@@ -1,14 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-@Time    : 2021/4/24 10:05
-@Author  : Origami_Shen_Li
-@FileName: encoder.py
-@Software: PyCharm
-
-@Dedicated to: My love, ZiJin Wei
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
