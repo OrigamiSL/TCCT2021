@@ -2,6 +2,8 @@
 Convolutional Transformer Architectures Complementary to Time Series Forecasting Transformer Models
 
 Paper: TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting
+https://arxiv.org/abs/2108.12784
+
 # Usage
 Copy all files and paste them into Informer2020-main[1][2]. Cover all files if needed.
 
